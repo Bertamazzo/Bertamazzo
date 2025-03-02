@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bertamazzo
 - 👀 I’m interested in new technologies applied to business
-- 🌱 I’m currently learning swift, R and DAX
+- 🌱 I’m currently learning Python and DAX
 - 💞️ I’m looking to collaborate on a challeging and learning project
 - 📫 How to reach me albertomazzoleni84@gmail.com
 - 😄 Pronouns: Mazzo
